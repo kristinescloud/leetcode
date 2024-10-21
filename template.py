@@ -30,13 +30,13 @@ from collections import deque
 from collections import Counter
 
 """
-Approach: 
+APPROACH: 
 
 
-Intuition:
+INTUITION:
 
 
-Complexity:
+COMPLEXITY:
 
 """
 
