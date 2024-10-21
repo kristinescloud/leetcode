@@ -35,8 +35,12 @@ APPROACH:
 
 INTUITION:
 
+    ALGORITHM:
+
 
 COMPLEXITY:
+    TIME:
+    SPACE:
 
 """
 
