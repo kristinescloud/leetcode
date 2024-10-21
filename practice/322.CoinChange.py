@@ -119,7 +119,7 @@ INTUITION:
     ALGORITHM:             
 
 COMPLEXITY:
-    TIME: TODO
+    TIME: TODO #2
     SPACE: O(amounts)
 
 """
