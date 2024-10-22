@@ -38,7 +38,6 @@ INTUITION: We want to swap characters with their corresponding character on the 
         - Iterate i from 0 to len(s)//2 if len(s) is even and iterate i from 0 to len(s)//2 + 1 if len(s) is odd:
             - Swap s[i] with s[len(s) - 1 - i]
 
-
 COMPLEXITY:
     TIME: O(n), where n is the length of the string
     SPACE: O(1)
