@@ -3,7 +3,7 @@ Title: 92. Reverse Linked List II
 
 Difficulty: Medium
 
-Topics: Linkedin
+Topics: Linked List
 
 Description: https://leetcode.com/problems/reverse-linked-list-ii/description/
 
