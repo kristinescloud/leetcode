@@ -42,7 +42,7 @@ INTUITION: We want to do a depth first search where we traverse two trees simult
             - If both node1 and node2 are None, we return True
             - If node1 or node2 is None, we return False
             - If both nodes exist, but have different values, we return False
-            - 
+            - TODO #6
 
 
 COMPLEXITY:
